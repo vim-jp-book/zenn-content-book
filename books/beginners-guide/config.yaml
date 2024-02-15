@@ -1,0 +1,7 @@
+title: "Vim あれこれ入門"
+summary: ""
+topics: ["vim", "neovim"] # トピック（5つまで）
+published: false # falseだと下書き
+price: 0
+chapters:
+  - introduction

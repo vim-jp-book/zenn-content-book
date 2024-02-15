@@ -1,0 +1,13 @@
+{
+  "name": "beginners-guide",
+  "version": "1.0.0",
+  "description": "Vim 入門記事を集めた Zenn の無料公開本",
+  "main": "index.js",
+  "scripts": { },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.153"
+  }
+}
